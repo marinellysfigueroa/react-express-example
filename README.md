@@ -7,7 +7,7 @@ In the project directory, you can run:
 
 ### `node index.js`
 
-The server start at [http://localhost:4000](http://localhost:4000).
+The server start at port 4000 and the get endpoint is: [[[http://localhost:4000]([http://localhost:4000](http://localhost:4000/api/pets)).](http://localhost:4000/api/pets)](http://localhost:4000/api/pets)
 
 # frontend
 You can get this repo: https://github.com/marinellysfigueroa/frontend-react-pets-crud
